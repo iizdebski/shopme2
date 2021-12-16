@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10e616da-0fa6-4479-8038-803ef3bb7668" name="Default Changelist" comment="237_5_README_images">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1wUCXiCwgzwgCUM9dpV3kznnvYZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\templates\orders" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\js" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeCommon\src\main\java\com\shopme\common\entity\product" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\static\js" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\static\fontawesome" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\static" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\java" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\static.fontawesome" />
+      <recent name="E:\ProgrammingPreparation\IdeaProjects\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.shopme.common.entity.setting" />
+      <recent name="com.shopme.common.entity.product" />
+      <recent name="com.shopme.common.entity.order" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shopme.common.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopmeFrontEndApplication">
+    <configuration name="OrderRestControllerTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShopmeFrontEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme.order" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.order.OrderRestControllerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRestControllerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShopmeBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.common.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme.admin.order" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.admin.order.OrderRestControllerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRestControllerTests.testSendOrderReturnRequestFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShopmeFrontEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme.order" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.order.OrderRestControllerTests" />
+      <option name="METHOD_NAME" value="testSendOrderReturnRequestFailed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRestControllerTests.testSendOrderReturnRequestSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShopmeFrontEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme.order" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.order.OrderRestControllerTests" />
+      <option name="METHOD_NAME" value="testSendOrderReturnRequestSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopmeBackEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopmeBackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopme.admin.ShopmeBackEndApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopmeFrontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ShopmeFrontEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopme.ShopmeFrontEndApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OrderRestControllerTests" />
+      <item itemvalue="JUnit.OrderRestControllerTests (1)" />
+      <item itemvalue="JUnit.OrderRestControllerTests.testSendOrderReturnRequestSuccessful" />
+      <item itemvalue="JUnit.OrderRestControllerTests.testSendOrderReturnRequestFailed" />
+      <item itemvalue="Spring Boot.ShopmeBackEndApplication" />
+      <item itemvalue="Spring Boot.ShopmeFrontEndApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShopmeFrontEndApplication" />
+        <item itemvalue="JUnit.OrderRestControllerTests.testSendOrderReturnRequestSuccessful" />
+        <item itemvalue="JUnit.OrderRestControllerTests.testSendOrderReturnRequestFailed" />
+        <item itemvalue="JUnit.OrderRestControllerTests (1)" />
+        <item itemvalue="JUnit.OrderRestControllerTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10e616da-0fa6-4479-8038-803ef3bb7668" name="Default Changelist" comment="" />
+      <created>1628503828604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628503828604</updated>
+      <workItem from="1628503833443" duration="124000" />
+      <workItem from="1628503987009" duration="838000" />
+      <workItem from="1628504931987" duration="662000" />
+      <workItem from="1628516581493" duration="2059000" />
+      <workItem from="1628531541413" duration="785000" />
+      <workItem from="1628532434486" duration="1908000" />
+      <workItem from="1628579473048" duration="1247000" />
+      <workItem from="1628581173705" duration="3895000" />
+      <workItem from="1628601817474" duration="1350000" />
+      <workItem from="1628611395749" duration="871000" />
+      <workItem from="1628698710425" duration="594000" />
+      <workItem from="1628710319262" duration="3022000" />
+      <workItem from="1628749627324" duration="3896000" />
+      <workItem from="1628871635863" duration="10284000" />
+      <workItem from="1628923297867" duration="3116000" />
+      <workItem from="1628959749338" duration="7312000" />
+      <workItem from="1629035053806" duration="6064000" />
+      <workItem from="1629050825291" duration="6096000" />
+      <workItem from="1629096354772" duration="4619000" />
+      <workItem from="1629133144653" duration="6083000" />
+      <workItem from="1629202843998" duration="7151000" />
+      <workItem from="1629302994514" duration="6875000" />
+      <workItem from="1629385678113" duration="590000" />
+      <workItem from="1629452868546" duration="10244000" />
+      <workItem from="1629481061949" duration="6468000" />
+      <workItem from="1629540173673" duration="3806000" />
+      <workItem from="1629563927120" duration="5997000" />
+      <workItem from="1629621085701" duration="59000" />
+      <workItem from="1629629648978" duration="2771000" />
+      <workItem from="1629632802664" duration="7355000" />
+      <workItem from="1629652794709" duration="6364000" />
+      <workItem from="1629732995175" duration="10543000" />
+      <workItem from="1629883107489" duration="10801000" />
+      <workItem from="1629916535220" duration="8162000" />
+      <workItem from="1629976234433" duration="5683000" />
+      <workItem from="1629996203797" duration="7440000" />
+      <workItem from="1630081314430" duration="72000" />
+      <workItem from="1630163114428" duration="725000" />
+      <workItem from="1630242019109" duration="11169000" />
+      <workItem from="1630309846092" duration="854000" />
+      <workItem from="1630329378547" duration="8789000" />
+      <workItem from="1630392710845" duration="291000" />
+      <workItem from="1630489340901" duration="2377000" />
+      <workItem from="1630501324216" duration="12527000" />
+      <workItem from="1630520884089" duration="143000" />
+      <workItem from="1630566593032" duration="2978000" />
+      <workItem from="1630576169732" duration="16438000" />
+      <workItem from="1630660380607" duration="7086000" />
+      <workItem from="1630752430411" duration="5625000" />
+      <workItem from="1630766013942" duration="2758000" />
+      <workItem from="1630774626516" duration="1443000" />
+      <workItem from="1630831548506" duration="6662000" />
+      <workItem from="1630864474830" duration="2533000" />
+      <workItem from="1630920853902" duration="7895000" />
+      <workItem from="1630938055996" duration="2923000" />
+      <workItem from="1631003748123" duration="2686000" />
+      <workItem from="1631008333531" duration="5167000" />
+      <workItem from="1631021634505" duration="3158000" />
+      <workItem from="1631028700977" duration="608000" />
+      <workItem from="1631041871289" duration="596000" />
+      <workItem from="1631092880018" duration="2247000" />
+      <workItem from="1631123538138" duration="3368000" />
+      <workItem from="1631177817118" duration="2567000" />
+      <workItem from="1631185506093" duration="1901000" />
+      <workItem from="1631208848298" duration="6439000" />
+      <workItem from="1631218647181" duration="405000" />
+      <workItem from="1631219101457" duration="943000" />
+      <workItem from="1631265208821" duration="5520000" />
+      <workItem from="1631273806250" duration="370000" />
+      <workItem from="1631285206511" duration="9951000" />
+      <workItem from="1631305096015" duration="2702000" />
+      <workItem from="1631448269701" duration="17614000" />
+      <workItem from="1631608359861" duration="912000" />
+      <workItem from="1631612910436" duration="460000" />
+      <workItem from="1631615740072" duration="810000" />
+      <workItem from="1631625237748" duration="16000" />
+      <workItem from="1631625344117" duration="1014000" />
+      <workItem from="1631639707746" duration="4732000" />
+      <workItem from="1631700318277" duration="6602000" />
+      <workItem from="1631717836327" duration="536000" />
+      <workItem from="1631718511430" duration="82000" />
+      <workItem from="1631721283620" duration="4008000" />
+      <workItem from="1631725967370" duration="376000" />
+      <workItem from="1631727696926" duration="221000" />
+      <workItem from="1631728134047" duration="6652000" />
+      <workItem from="1631735432963" duration="355000" />
+      <workItem from="1639163392550" duration="250000" />
+      <workItem from="1639164499708" duration="1447000" />
+      <workItem from="1639218940444" duration="6823000" />
+      <workItem from="1639228816334" duration="913000" />
+      <workItem from="1639229887609" duration="3168000" />
+    </task>
+    <task id="LOCAL-00031" summary="174_code_quantity_control_component">
+      <created>1629893302436</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1629893302436</updated>
+    </task>
+    <task id="LOCAL-00032" summary="175_code_add_product_to_shopping_cart">
+      <created>1629906038739</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1629906038739</updated>
+    </task>
+    <task id="LOCAL-00033" summary="176_code_view_shopping_cart">
+      <created>1629921290941</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1629921290941</updated>
+    </task>
+    <task id="LOCAL-00034" summary="177_code_update_product_quantity">
+      <created>1629926266744</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1629926266744</updated>
+    </task>
+    <task id="LOCAL-00035" summary="178_code_remove_product_from_shopping_cart">
+      <created>1629985692561</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1629985692561</updated>
+    </task>
+    <task id="LOCAL-00036" summary="179_format_currency_in_shopping_cart">
+      <created>1629988210734</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1629988210734</updated>
+    </task>
+    <task id="LOCAL-00037" summary="181_code_refactor_#11">
+      <created>1629999177296</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1629999177296</updated>
+    </task>
+    <task id="LOCAL-00038" summary="184_exercise_code_shipping_rates_management_module">
+      <created>1630163241956</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1630163241956</updated>
+    </task>
+    <task id="LOCAL-00039" summary="187_exercise_code_repository_layer_for_address_book">
+      <created>1630243859415</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1630243859415</updated>
+    </task>
+    <task id="LOCAL-00040" summary="188_code_address_book_listing">
+      <created>1630247618928</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1630247618928</updated>
+    </task>
+    <task id="LOCAL-00041" summary="189_exercise_code_add_edit_and_delete_address">
+      <created>1630258059110</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1630258059110</updated>
+    </task>
+    <task id="LOCAL-00042" summary="190_code_set_default_address">
+      <created>1630259863979</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1630259863979</updated>
+    </task>
+    <task id="LOCAL-00043" summary="194_code_repository_layer_for_order_module">
+      <created>1630333987766</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1630333987766</updated>
+    </task>
+    <task id="LOCAL-00044" summary="195_exercise_code_orders_listing">
+      <created>1630354902669</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1630354902669</updated>
+    </task>
+    <task id="LOCAL-00045" summary="199_code_refactor_#12">
+      <created>1630506273539</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1630506273539</updated>
+    </task>
+    <task id="LOCAL-00046" summary="202_update_shopping_cart_page">
+      <created>1630519614057</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1630519614057</updated>
+    </task>
+    <task id="LOCAL-00047" summary="203_code_checkout_page">
+      <created>1630592394530</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1630592394530</updated>
+    </task>
+    <task id="LOCAL-00048" summary="204_change_shipping_address_from_checkout_page">
+      <created>1630602771669</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1630602771669</updated>
+    </task>
+    <task id="LOCAL-00049" summary="205_exercise_update_settings_module">
+      <created>1630662131394</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1630662131394</updated>
+    </task>
+    <task id="LOCAL-00050" summary="206_code_place_order_with_COD">
+      <created>1630667485021</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1630667485021</updated>
+    </task>
+    <task id="LOCAL-00051" summary="206_1_code_place_order_with_COD">
+      <created>1630763610438</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1630763610439</updated>
+    </task>
+    <task id="LOCAL-00052" summary="207_code_send_order_confirmation_email">
+      <created>1630778431638</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1630778431640</updated>
+    </task>
+    <task id="LOCAL-00053" summary="209_code_payment_for_checkout_page">
+      <created>1630870241108</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1630870241109</updated>
+    </task>
+    <task id="LOCAL-00054" summary="210_code_validate_PayPal_order">
+      <created>1630933841288</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1630933841289</updated>
+    </task>
+    <task id="LOCAL-00055" summary="213_code_refactor_#13">
+      <created>1630940520539</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1630940520539</updated>
+    </task>
+    <task id="LOCAL-00056" summary="216_update_repository_layer_for_order_module">
+      <created>1630942642774</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1630942642774</updated>
+    </task>
+    <task id="LOCAL-00057" summary="217_exercise_display_order_tracking_information">
+      <created>1631009284392</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1631009284395</updated>
+    </task>
+    <task id="LOCAL-00058" summary="218_exercise_code_edit_order_form_overview_and_shipping">
+      <created>1631015254353</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1631015254354</updated>
+    </task>
+    <task id="LOCAL-00059" summary="219_code_edit_products_in_an_order">
+      <created>1631029290531</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1631029290532</updated>
+    </task>
+    <task id="LOCAL-00060" summary="220_calculate_shipping_cost_of_a_product">
+      <created>1631123601402</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1631123601403</updated>
+    </task>
+    <task id="LOCAL-00061" summary="221_code_add_products_to_an_order_part_1">
+      <created>1631129347693</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1631129347694</updated>
+    </task>
+    <task id="LOCAL-00062" summary="222_code_add_products_to_an_order_part_2">
+      <created>1631210169024</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1631210169025</updated>
+    </task>
+    <task id="LOCAL-00063" summary="223_code_remove_products_from_an_order">
+      <created>1631213200448</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1631213200448</updated>
+    </task>
+    <task id="LOCAL-00064" summary="224_exercise_code_manage_track_records_of_an_order">
+      <created>1631274162324</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1631274162324</updated>
+    </task>
+    <task id="LOCAL-00065" summary="225_code_save_order_into_database">
+      <created>1631296916621</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1631296916622</updated>
+    </task>
+    <task id="LOCAL-00066" summary="226_code_refactor_#14">
+      <created>1631304280903</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1631304280903</updated>
+    </task>
+    <task id="LOCAL-00067" summary="228_code_order_listing_for_shipper">
+      <created>1631465509835</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1631465509836</updated>
+    </task>
+    <task id="LOCAL-00068" summary="229_code_service_and_controller_for_updating_order_status">
+      <created>1631474236055</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1631474236055</updated>
+    </task>
+    <task id="LOCAL-00069" summary="229_1">
+      <created>1631612667069</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1631612667070</updated>
+    </task>
+    <task id="LOCAL-00070" summary="230_code_view_layer_for_updating_order_status">
+      <created>1631639836696</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1631639836697</updated>
+    </task>
+    <task id="LOCAL-00071" summary="233_exercise_code_orders_listing_for_customer">
+      <created>1631644617914</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1631644617914</updated>
+    </task>
+    <task id="LOCAL-00072" summary="234_exercise_code_view_order_details_for_customer">
+      <created>1631705352448</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1631705352448</updated>
+    </task>
+    <task id="LOCAL-00073" summary="235_code_return_order_function_service_and_controller">
+      <created>1631708944397</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1631708944398</updated>
+    </task>
+    <task id="LOCAL-00074" summary="236_code_return_order_function_view_layer">
+      <created>1631723571534</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1631723571535</updated>
+    </task>
+    <task id="LOCAL-00075" summary="237_code_refactor_#15">
+      <created>1631725402508</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1631725402508</updated>
+    </task>
+    <task id="LOCAL-00076" summary="237_code_refactor_#15_2">
+      <created>1631735760941</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1631735760942</updated>
+    </task>
+    <task id="LOCAL-00077" summary="237_3_README">
+      <created>1639220385181</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1639220385181</updated>
+    </task>
+    <task id="LOCAL-00078" summary="237_4_README_technologies_used">
+      <created>1639220780531</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1639220780532</updated>
+    </task>
+    <task id="LOCAL-00079" summary="237_5_README_images">
+      <created>1639241215077</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1639241215078</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="213_code_refactor_#13" />
+    <MESSAGE value="216_update_repository_layer_for_order_module" />
+    <MESSAGE value="217_exercise_display_order_tracking_information" />
+    <MESSAGE value="218_exercise_code_edit_order_form_overview_and_shipping" />
+    <MESSAGE value="219_code_edit_products_in_an_order" />
+    <MESSAGE value="220_calculate_shipping_cost_of_a_product" />
+    <MESSAGE value="221_code_add_products_to_an_order_part_1" />
+    <MESSAGE value="222_code_add_products_to_an_order_part_2" />
+    <MESSAGE value="223_code_remove_products_from_an_order" />
+    <MESSAGE value="224_exercise_code_manage_track_records_of_an_order" />
+    <MESSAGE value="225_code_save_order_into_database" />
+    <MESSAGE value="226_code_refactor_#14" />
+    <MESSAGE value="228_code_order_listing_for_shipper" />
+    <MESSAGE value="229_code_service_and_controller_for_updating_order_status" />
+    <MESSAGE value="229_1" />
+    <MESSAGE value="230_code_view_layer_for_updating_order_status" />
+    <MESSAGE value="233_exercise_code_orders_listing_for_customer" />
+    <MESSAGE value="234_exercise_code_view_order_details_for_customer" />
+    <MESSAGE value="235_code_return_order_function_service_and_controller" />
+    <MESSAGE value="236_code_return_order_function_view_layer" />
+    <MESSAGE value="237_code_refactor_#15" />
+    <MESSAGE value="237_code_refactor_#15_2" />
+    <MESSAGE value="237_3_README" />
+    <MESSAGE value="237_4_README_technologies_used" />
+    <MESSAGE value="237_5_README_images" />
+    <option name="LAST_COMMIT_MESSAGE" value="237_5_README_images" />
+  </component>
+</project>
