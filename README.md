@@ -15,57 +15,57 @@
 * **Modules in the Shopping application: categories listing, product details, search products, shopping cart, checkout, manage orders, customer registration.**
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_01.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_02.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_03.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_03.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_04.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_05.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_06.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_07.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_07.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_08.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_08.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme_09.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme_09.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme10.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme10.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme11.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme11.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme12.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme12.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme14.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme14.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/shopme/blob/master/images_for_README/shopme15.JPG">
+<img src="https://github.com/iizdebski/shopme2/blob/main/images_for_README/shopme15.JPG">
 </p>
